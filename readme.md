@@ -7,7 +7,7 @@ Para usarla en producción se debe agregar la key del API en la línea 81, reemp
     <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry"></script>
 
 Puede probar el uso a través del enlace:
-[Demo Online]([https://jsalonl.github.io/GMaps_Distance/](https://jsalonl.github.io/GMaps_Distance/))
+[Demo Online](https://jsalonl.github.io/GMaps_Distance/)
 
 ## Capturas
 
